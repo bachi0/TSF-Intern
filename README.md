@@ -1,1 +1,7 @@
 # TSF-Intern
+
+# Task 1
+Predict the percentage of an student based on the no. of study hours. 
+Algorithm used -> Linear Regression.
+
+#Task 2
