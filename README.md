@@ -2,7 +2,7 @@
 
 IDE -> Jupyter Notebook
 
-Language Python
+Language -> Python
 
 # Task 1
 
